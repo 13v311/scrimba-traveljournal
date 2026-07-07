@@ -5,6 +5,14 @@ npm install
 npm start
 ```
 
+What I learned in this section of the scrimba course:
+
+- props! including how to use and receive them
+- using array.map() capabilities with react's ability to render arrays
+- further understanding what JSX is
+- using JS within JSX
+- how to especially render images / import static assestsfor Vite
+
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
